@@ -1750,12 +1750,15 @@ def main_function():
                 tag_isotopic_shift = values[j]
                 if not str_is_number(values[j]):
                     analyze = False
-                    print('Error: exact mass shift between light and heavy tags (in Da) should be a unitless number >= 0 without spaces.')
+                    print('Error: exact mass shift between light and heavy tags (in Da) should be a unitless number without spaces.')
+                elif float(values[j]) < 1:
+                    analyze = False
+                    print('Error: exact mass shift between light and heavy tags (in Da) should be >= 1.')
                 else:
                     tag_isotopic_shift = float(values[j])
                     if tag_isotopic_shift == 0:
                         analyze = False
-                        print('Error: exact mass shift between light and heavy tags (in Da) should be a unitless number >= 0 without spaces.')
+                        print('Error: exact mass shift between light and heavy tags (in Da) should be a unitless number without spaces.')
                 j += 1
 
                 tag_isotopic_shift_tolerance = values[j]
