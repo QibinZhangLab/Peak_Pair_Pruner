@@ -1641,7 +1641,6 @@ def main_function():
                     [sG.Text('Mix QC theoretical L/H ratio: ' + '\t' + '\t' + '\t'), sG.InputText(mix_lth_ratio)],
                     [sG.Text('Mix QC L/H ratio tolerance: ' + '\t' + '\t' + '\t' + '\t'), sG.InputText(mix_lth_tolerance)],
                     [sG.Text('Number of tags per molecule: ' + '\t' + '\t' + '\t'), sG.InputText(tag_count)],
-                    [sG.Text('GO again for coverage of multiple tagging levels.')],
                     [sG.Text('Exact mass shift between light and heavy tags in Da: ' + '\t'), sG.InputText(tag_isotopic_shift)],
                     [sG.Text('Mass shift tolerance in ppm: ' + '\t' + '\t' + '\t'), sG.InputText(tag_isotopic_shift_tolerance)],
                     [sG.Text('Subtract background values from samples and QCs?: ' + '\t'), sG.Checkbox('Subtract', subtract_blank)],
@@ -1649,7 +1648,7 @@ def main_function():
                     [sG.Text('Output file name: ' + '\t' + '\t' + '\t' + '\t' + '\t'), sG.InputText(processed_name)],
                     [sG.Text('Output file format: ' + '\t' + '\t' + '\t' + '\t' + '\t'), sG.OptionMenu(['Report', 'Matrix'], format_menu_choice, s=(15, 2)), sG.Text('(Report for summary, matrix for deep dive)')],
                     [sG.Text('Output file directory: ' + '\t' + '\t' + '\t' + '\t'), sG.InputText(destination_directory), sG.FolderBrowse()],
-                    [sG.Button('GO'), sG.Button('Exit'), sG.Text('This window will disappear while working.  You can change parameters and GO again after the job finishes.')]
+                    [sG.Button('GO'), sG.Button('Exit'), sG.Text('This window will disappear while working. PPP processes one tagging level at a time; please submit a new job for multiple levels.')]
                 ]
 
         window = sG.Window('Peak Pair Pruner v1.0', layout)
