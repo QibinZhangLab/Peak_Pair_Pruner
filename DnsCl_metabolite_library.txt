@@ -1,0 +1,219 @@
+Metabolite	MZ	RT	Adduct
+1- or 3-Methylhistidine	403.1425	0.95	[M+H]+
+Alanine	323.1057	3.3	[M+H]+
+Alpha-Aminobutyric acid	337.1216	4.1	[M+H]+
+Aminoadipic acid	395.1264	2.45	[M+H]+
+Arginine	408.17	1.08	[M+H]+
+Aspartic acid	367.0955	1.96	[M+H]+
+Beta-Alanine	323.1057	3.12	[M+H]+
+Beta-Aminoisobutyric acid	337.1216	3.88	[M+H]+
+Carnosine	460.167	6.8	[M+H]+
+Citrulline	409.1532	1.47	[M+H]+
+Cystathionine	345.0916	5.8	[M+2H]2+
+Cystine	354.0702	5.94	[M+2H]2+
+Ethanolamine	295.1114	2.57	[M+H]+
+Gamma-Aminobutyric acid (GABA)	337.1216	3.41	[M+H]+
+Glutamic acid	381.1111	1.93	[M+H]+
+Glycine	309.0901	2.75	[M+H]+
+Histidine	389.1284	7	[M+H]+
+Homocystine	502.1134	1.66	[M+H]+
+Hydroxylysine	315.1094	5.9	[M+2H]2+
+Hydroxyproline	365.1166	2.06	[M+H]+
+Isoleucine	365.1532	5.44	[M+H]+
+Leucine	365.1532	5.55	[M+H]+
+Lysine	307.1111	6.75	[M+2H]2+
+Methionine	383.1085	4.77	[M+H]+
+Ornithine	300.1029	6.47	[M+2H]2+
+Phenylalanine	399.1381	5.44	[M+H]+
+Proline	349.121	4.5	[M+H]+
+Sarcosine	323.1057	4.12	[M+H]+
+Serine	339.101	1.76	[M+H]+
+Taurine	359.0734	1.24	[M+H]+
+Threonine	353.1166	2.45	[M+H]+
+Tryptophan	438.1499	5	[M+H]+
+Tyrosine	324.5954	8.13	[M+2H]2+
+Valine	351.1385	4.75	[M+H]+
+2-Aminooctanoic acid	393.184	7.25	[M+H]+
+3-Hydroxymandelic acid	402.101	5.58	[M+H]+
+3-Hydroxyphenylacetic acid	386.1055	6.56	[M+H]+
+4-Hydroxybenzoic acid	372.0898	6.78	[M+H]+
+5-Aminopentanoic acid	351.137	3.94	[M+H]+
+5-Hydroxyindoleacetic acid	425.1164	6.02	[M+H]+
+Alanyl-Glutamic acid	452.1489	1.87	[M+H]+
+Alanyl-Isoleucine	436.191	4.67	[M+H]+
+Arginyl-Cysteine	511.1752	2.9	[M+H]+
+Aspartyl-Glycine	424.1176	1.56	[M+H]+
+Aspartyl-Isoleucine	480.1804	4.04	[M+H]+
+Aspartyl-Threonine	468.144	1.63	[M+H]+
+Desaminotyrosine	400.1216	6.86	[M+H]+
+Glutamyl-Glycine	438.1321	1.41	[M+H]+
+Glutamyl-Leucine	494.1959	4.27	[M+H]+
+Glutamyl-Methionine	512.1512	3.46	[M+H]+
+Glutamyl-Phenylalanine	528.1794	4.38	[M+H]+
+Glutamyl-Threonine	482.1585	1.43	[M+H]+
+Glutamyl-Tryptophan	567.1899	4.32	[M+H]+
+Glutamyl-Tyrosine	389.1151	7.09	[M+2H]2+
+Glutamyl-Valine	480.18	3.41	[M+H]+
+Glycyl-Aspartate	424.1177	1.67	[M+H]+
+Glycyl-Cysteine	411.0915	5.11	[M+2H]2+
+Glycyl-Leucine	422.1755	4.96	[M+H]+
+Gly-Norvaline	408.159	4.12	[M+H]+
+Guaiacol	358.1105	8.18	[M+H]+
+Homocitrulline	423.1686	1.76	[M+H]+
+Homoserine	353.1162	1.65	[M+H]+
+Homovanillic acid	416.1161	6.46	[M+H]+
+Hydroxyphenyllactic acid	416.116	5.96	[M+H]+
+Imidazoleacetic acid	360.1007	4.89	[M+H]+
+Indole-3-carboxylic acid	395.1063	7.24	[M+H]+
+Isoleucyl-Alanine	436.1907	4.38	[M+H]+
+Isoleucyl-Leucine	478.2373	6.3	[M+H]+
+Kynurenine	442.1428	4.91	[M+H]+
+Lysyl-Alanine	342.6291	6.28	[M+2H]2+
+Lysyl-Glutamate	371.6316	5.54	[M+2H]2+
+Methionine Sulfoxide	399.1047	1.68	[M+H]+
+Methylcysteine	369.0938	4.19	[M+H]+
+N-Methyl aspartic acid	381.1113	3.19	[M+H]+
+Ortho-Hydroxyphenylacetic acid	386.1057	6.47	[M+H]+
+Pantothenic acid	453.1693	3.85	[M+H]+
+Phenylalanyl-Isoleucine	512.2221	6.32	[M+H]+
+Pipecolic acid	363.1372	5.56	[M+H]+
+Prolyl-Alanine	420.1582	3.99	[M+H]+
+Prolyl-Leucine	462.2055	5.91	[M+H]+
+Prolyl-Methionine	480.1634	5.19	[M+H]+
+Prolyl-Phenylalanine	496.1909	6.17	[M+H]+
+Prolyl-Tryptophan	535.2002	5.81	[M+H]+
+Prolyl-Tyrosine	373.1204	8.39	[M+2H]2+
+Prolyl-Valine	448.1899	5.25	[M+H]+
+Ribothymidine	474.1335	4.32	[M+H]+
+Salicyluric acid	429.1112	4.87	[M+H]+
+Seryl-Methionine	470.1374	3.1	[M+H]+
+Threoninyl-Aspartate	468.1428	1.26	[M+H]+
+Uracil	346.0863	4.89	[M+H]+
+Uridine	460.1167	4.05	[M+H]+
+Valyl-Alanine	422.1754	3.71	[M+H]+
+Valyl-Aspartate	466.163	2.69	[M+H]+
+Valyl-Leucine	464.2217	5.8	[M+H]+
+Vanillic acid	402.1001	6.72	[M+H]+
+Xanthine	386.0915	4.06	[M+H]+
+"(2R,3R,4R)-2-Amino-4-hydroxy-3-methylpentanoic acid"	381.1471	3.05	[M+H]+
+"(2R,4S)-2,4-Diaminopentanoic acid"	300.1031	6.46	[M+2H]2+
+"(3S,5S)-3,5-Diaminohexanoic acid"	307.1103	6.99	[M+2H]2+
+(E)-4-Hydroxyphenylacetaldehyde oxime	385.1216	6.37	[M+H]+
+(R)-1-Aminopropan-2-ol	309.1266	3.74	[M+H]+
+(S)-4-Amino-5-oxopentanoic acid	365.1157	4.75	[M+H]+
+(Z)-3-Peroxyaminoacrylic acid	337.0848	4.83	[M+H]+
+"1,2-Dihydroxynaphthalene-6-sulfonic acid"	474.0672	6.45	[M+H]+
+2-(2-Aminopropanamido)pentanoic acid	422.1755	4.42	[M+H]+
+2-(Methylamino)benzoic acid	385.1217	7.15	[M+H]+
+"2,6-Dihydroxyphenylacetic acid"	402.0997	6	[M+H]+
+"2,8-Dihydroxyadenine"	401.1037	3.16	[M+H]+
+"2-Amino-2-methyl-1,3-propanediol"	339.1378	4.28	[M+H]+
+2-Aminobenzyl alcohol	357.1239	5.57	[M+H]+
+"2-Carboxy-2,3-dihydro-5,6-dihydroxyindole"	429.111	5.64	[M+H]+
+2-Deoxy-scyllo-inosamine	397.1431	3.01	[M+H]+
+2-Methyl-3-hydroxy-5-formylpyridine-4-carboxylic acid	415.0957	4.26	[M+H]+
+2-Oxo-4-hydroxy-5-aminovaleric acid	381.1109	2.34	[M+H]+
+"3,4-Dihydroxybenzylamine"	373.119	4.79	[M+H]+
+"3,4-Dihydroxystyrene"	302.0839	10.36	[M+2H]2+
+3-Amino-2-piperidone	348.1379	3.59	[M+H]+
+3-Cyano-L-alanine	348.101	2.53	[M+H]+
+3-Hydroxybenzyl alcohol	358.1106	6.65	[M+H]+
+"4-(1,1,3,3-Tetramethylbutyl)-phenol"	440.2241	11.25	[M+H]+
+4-Aminobutyraldehyde	321.1266	4.28	[M+H]+
+4-Chloro-L-lysine	414.1217	2.3	[M+H]+
+4-Guanidinobutanal	363.1478	2.42	[M+H]+
+4-Hydroxy-2H-pyran-3-carboxaldehyde	360.0892	5.99	[M+H]+
+4-Hydroxybenzyl alcohol	358.1108	6.48	[M+H]+
+4-Hydroxy-L-tryptophan	454.1443	4.71	[M+H]+
+4-Hydroxyphenylglyoxylic acid	400.0852	5.34	[M+H]+
+4-Hydroxypiperidine	335.1423	5.71	[M+H]+
+4-Hydroxystyrene	354.116	8.84	[M+H]+
+4-Sulfocatechol	424.052	4.55	[M+H]+
+5-Aminopentanal	335.1423	4.72	[M+H]+
+5-Hydroxyectoine	392.1272	3.7	[M+H]+
+5-Pyridoxolactone	399.1009	4.27	[M+H]+
+7-Carboxy-7-carbaguanine	428.1012	2.88	[M+H]+
+Adenosine	501.1515	2.22	[M+H]+
+alpha-Cyano-4-hydroxycinnamic acid	423.1008	7.01	[M+H]+
+Aminoethoxyacetic acid	353.1162	2.74	[M+H]+
+Argininic acid	409.1534	1.68	[M+H]+
+Arginyl-Proline	505.2221	2.01	[M+H]+
+Aspartyl-Glutamine	495.1549	1.56	[M+H]+
+Cadaverine	336.1735	2.09	[M+H]+
+CDP-glycerol	711.1138	1.26	[M+H]+
+Creatinine	347.1169	3.11	[M+H]+
+cyclic 6-Hydroxymelatonin	480.1589	6.37	[M+H]+
+Dehydroalanine	321.0905	3.98	[M+H]+
+D-Lysopine	343.1214	6.61	[M+2H]2+
+Epsilon-(gamma-Glutamyl)-lysine	371.6329	5.18	[M+2H]2+
+Formyl-5-hydroxykynurenamine	338.0999	7.84	[M+2H]2+
+gamma-Amino-gamma-cyanobutanoic acid	362.1162	3.05	[M+H]+
+gamma-CEHC	498.194	8.61	[M+H]+
+Glycyl-glycine	366.1118	1.68	[M+H]+
+Homo-L-arginine	328.1219	5.31	[M+2H]2+
+Homomethionine	397.1243	4.99	[M+H]+
+Hydroxyprolyl-Alanine	436.1537	2.93	[M+H]+
+Hydroxyprolyl-Histidine	502.1759	3.85	[M+H]+
+Hydroxyprolyl-Hydroxyproline	478.1644	3.26	[M+H]+
+Hydroxyprolyl-Leucine	478.2006	5.35	[M+H]+
+Hydroxyprolyl-Proline	462.1685	2.63	[M+H]+
+Hypoglycin B	504.1794	3.58	[M+H]+
+Iminodiacetic acid	367.0957	2.87	[M+H]+
+"L-2,4-Diaminobutanoic acid"	293.0953	6.91	[M+2H]2+
+L-2-Amino-5-hydroxypentanoic acid	367.1317	2.47	[M+H]+
+L-alpha-Aspartyl-L-hydroxyproline	480.1445	3.18	[M+H]+
+L/D-Arginine	321.1142	5.04	[M+2H]2+
+L/D-Asparagine	366.1119	1.26	[M+H]+
+L-Aspartate 4-semialdehyde	351.101	4.02	[M+H]+
+L-Aspartyl-L-phenylalanine	514.1637	4.96	[M+H]+
+L-beta-aspartyl-L-phenylalanine	514.164	4.17	[M+H]+
+L-Cysteinylglycine disulfide	382.5799	5.51	[M+2H]2+
+L/N'-Formylkynurenine	470.1379	4.4	[M+H]+
+L/D-Glutamine	380.1265	1.37	[M+H]+
+L-N-Carboxymethylserine	397.1062	2	[M+H]+
+L-Norleucine	365.1527	6.44	[M+H]+
+L-prolyl-L-proline	446.1737	3.68	[M+H]+
+L-Targinine	422.1846	1.28	[M+H]+
+L-trans-4-Methyl-2-pyrrolidinecarboxylic acid	363.1375	5.37	[M+H]+
+L-trans-5-Hydroxy-2-piperidinecarboxylic acid	379.1313	5.49	[M+H]+
+Luteolin 7-O-[beta-D-glucuronosyl-(1->2)-beta-D-glucuronide]-4'-O-beta-D-glucuronide	641.127	7.51	[M+2H]2+
+Lysyl-Glycine	335.6213	5.82	[M+2H]2+
+Lysyl-Proline	355.6379	6.64	[M+2H]2+
+Methionyl-Serine	470.1381	2.62	[M+H]+
+Methylamine	265.1001	4.07	[M+H]+
+N(6)-Methyllysine	314.119	7.57	[M+2H]2+
+"N(alpha)-Acetyl-L-2,4-diaminobutyric acid"	394.1432	2.87	[M+H]+
+N5-Acetyl-L-Ornithine	408.1574	1.99	[M+H]+
+"N6-(L-1,3-Dicarboxypropyl)-L-lysine"	510.1896	1.53	[M+H]+
+N6-Methyladenosine	515.17	1.8	[M+H]+
+N8-Acetylspermidine	327.642	6.94	[M+2H]2+
+"N-Acetyl-3,4-Dihydroxy-L-phenylalanine"	473.1373	6.36	[M+H]+
+N-Acetyl-Dopamine	429.1468	5.69	[M+H]+
+N-Acetylindoxyl	409.1218	7.13	[M+H]+
+N-Acetyl-L-Noradrenaline	445.143	4.86	[M+H]+
+N-Carboxyethyl-g-aminobutyric acid	409.1425	4.45	[M+H]+
+N-Formimino-L-glutamic acid	408.1215	3.36	[M+H]+
+O-Methyl-L-threonine	367.1321	3.51	[M+H]+
+p-Hydroxyphenylacetylglycine	443.1275	4.44	[M+H]+
+Prolyl-Aspartic acid	464.1488	3.15	[M+H]+
+Prolyl-Gamma-glutamic acid	355.62	6.69	[M+2H]2+
+Prolyl-Glutamine	477.1804	2.6	[M+H]+
+Prolylglycine	406.1433	3.57	[M+H]+
+Prolyl-Lysine	355.6377	6.92	[M+2H]2+
+Prolyl-Threonine	450.1682	3.41	[M+H]+
+Putrescine	278.1086	7.56	[M+2H]2+
+Pyrrolidine	305.1316	6.52	[M+H]+
+Salicylic acid	372.0898	6.15	[M+H]+
+Salsoline-1-carboxylic acid	352.6088	9.12	[M+2H]2+
+Salsolinol 1-carboxylic acid	345.6006	8.88	[M+2H]2+
+Serylleucine	452.1854	4.43	[M+H]+
+Serylvaline	438.1688	4.07	[M+H]+
+Slaframine	432.1942	4.73	[M+H]+
+Symmetric dimethylarginine	436.2004	1.39	[M+H]+
+Tabtoxinine-beta-lactam	422.1375	2.05	[M+H]+
+Tetrahydropentoxyline	600.2003	2.66	[M+H]+
+Thyroxine	622.4002	10.55	[M+2H]2+
+trans-S-(1-Propenyl)-L-cysteine	395.1085	5.7	[M+H]+
+Trihomomethionine	425.1563	6.39	[M+H]+
+Valyl-Hydroxyproline	464.1859	3.11	[M+H]+
+Zymonic acid	392.079	4.38	[M+H]+
